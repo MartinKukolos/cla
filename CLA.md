@@ -1,4 +1,4 @@
-# 🌙 **MayMeow Studio – Contributor License Agreement (Hybrid Edition)**
+# 🌙 **MayMeow Studio – Contributor License Agreement**
 
 *Version 1.0*
 
